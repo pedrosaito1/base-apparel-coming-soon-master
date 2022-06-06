@@ -1,5 +1,5 @@
 # Frontend Mentor - Base Apparel coming soon page
-This is a solution to the [Intro component with sign up form solution on Frontend Mentor](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0).
+This is a solution to the [Base Apparel coming soon page](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0).
 
 ## Table of Contents
 
